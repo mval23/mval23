@@ -63,9 +63,10 @@ I'm a Computer Science student 📚 diving into the depths of technology and its
 
 ## Github Stats 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mval23&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mval23&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mval23&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mval23&hide_border=true&layout=compact" align="center" />
+</div>  
 
 <br/>
 
